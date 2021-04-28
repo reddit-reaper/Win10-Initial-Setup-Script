@@ -4118,6 +4118,7 @@ Function Restart {
 Function Exit {
 	Write-Output "Exiting Command Prompt..."
 	Exit
+}
 
 ##########
 #endregion Auxiliary Functions

@@ -35,7 +35,7 @@ DisableWAPPush                  # EnableWAPPush
 DisableRecentFiles            # EnableRecentFiles
 
 ### UWP Privacy Tweaks ###
-DisableUWPBackgroundApps        # EnableUWPBackgroundApps
+# DisableUWPBackgroundApps      # EnableUWPBackgroundApps
 # DisableUWPVoiceActivation     # EnableUWPVoiceActivation
 # DisableUWPNotifications       # EnableUWPNotifications
 # DisableUWPAccountInfo         # EnableUWPAccountInfo
@@ -150,7 +150,7 @@ SetControlPanelSmallIcons     # SetControlPanelLargeIcons
 SetControlPanelCategories
 DisableShortcutInName           # EnableShortcutInName
 # HideShortcutArrow             # ShowShortcutArrow
-SetVisualFXPerformance          # SetVisualFXAppearance
+# SetVisualFXPerformance          # SetVisualFXAppearance
 # EnableTitleBarColor           # DisableTitleBarColor
 # SetAppsDarkMode               # SetAppsLightMode
 # SetSystemLightMode            # SetSystemDarkMode
@@ -170,7 +170,7 @@ ShowKnownExtensions             # HideKnownExtensions
 # ShowSuperHiddenFiles          # HideSuperHiddenFiles
 # ShowEmptyDrives               # HideEmptyDrives
 # ShowFolderMergeConflicts      # HideFolderMergeConflicts
-EnableNavPaneExpand             # DisableNavPaneExpand
+# EnableNavPaneExpand             # DisableNavPaneExpand
 # ShowNavPaneAllFolders         # HideNavPaneAllFolders
 # HideNavPaneLibraries			# ShowNavPaneLibraries
 # EnableFldrSeparateProcess     # DisableFldrSeparateProcess
