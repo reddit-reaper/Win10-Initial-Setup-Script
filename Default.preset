@@ -9,7 +9,7 @@
 RequireAdmin
 
 ### Privacy Tweaks ###
-DisableTelemetry                # EnableTelemetry
+# DisableTelemetry                # EnableTelemetry
 DisableCortana                  # EnableCortana
 DisableWiFiSense                # EnableWiFiSense
 # DisableSmartScreen            # EnableSmartScreen
@@ -27,7 +27,7 @@ DisableAdvertisingID            # EnableAdvertisingID
 # DisableCamera                 # EnableCamera
 # DisableMicrophone             # EnableMicrophone
 DisableErrorReporting           # EnableErrorReporting
-SetP2PUpdateLocal             # SetP2PUpdateInternet          #
+# SetP2PUpdateLocal             # SetP2PUpdateInternet          #
 # SetP2PUpdateDisable
 DisableDiagTrack                # EnableDiagTrack
 DisableWAPPush                  # EnableWAPPush
@@ -55,7 +55,7 @@ DisableRecentFiles            # EnableRecentFiles
 ### Security Tweaks ###
 # SetUACLow                     # SetUACHigh
 # EnableSharingMappedDrives     # DisableSharingMappedDrives
-DisableAdminShares              # EnableAdminShares
+# DisableAdminShares              # EnableAdminShares
 # DisableFirewall               # EnableFirewall
 # HideDefenderTrayIcon          # ShowDefenderTrayIcon
 # DisableDefender               # EnableDefender
@@ -132,7 +132,7 @@ DisableAccessibilityKeys        # EnableAccessibilityKeys
 ShowTaskManagerDetails          # HideTaskManagerDetails
 ShowFileOperationsDetails       # HideFileOperationsDetails
 # EnableFileDeleteConfirm       # DisableFileDeleteConfirm
-HideTaskbarSearch               # ShowTaskbarSearchIcon
+# HideTaskbarSearch               # ShowTaskbarSearchIcon
 # ShowTaskbarSearchBox
 HideTaskView                    # ShowTaskView
 # ShowSmallTaskbarIcons           # ShowLargeTaskbarIcons
@@ -240,8 +240,8 @@ DisableMediaSharing             # EnableMediaSharing
 # InstallSSHServer              # UninstallSSHServer
 # InstallTelnetClient           # UninstallTelnetClient
 # InstallNET23                  # UninstallNET23
-SetPhotoViewerAssociation       # UnsetPhotoViewerAssociation
-AddPhotoViewerOpenWith          # RemovePhotoViewerOpenWith
+# SetPhotoViewerAssociation       # UnsetPhotoViewerAssociation
+# AddPhotoViewerOpenWith          # RemovePhotoViewerOpenWith
 # UninstallPDFPrinter           # InstallPDFPrinter
 # UninstallXPSPrinter             # InstallXPSPrinter
 RemoveFaxPrinter                # AddFaxPrinter
